@@ -1,11 +1,11 @@
 # 💠 CORECODE
 
-**CORECODE** is a high-performance, premium AI desktop engine designed to harness the power of native CLI tools and cloud intelligence within a unified, state-of-the-art interface. It serves as your command center for agentic coding and reasoning, bridging the gap between local hardware and global AI backends.
+**CORECODE** is a high-performance, premium AI desktop engine designed to harness the power of native CLI tools and cloud intelligence within a unified, state-of-the-art interface. It serves as your command center for development and reasoning, bridging the gap between local hardware and global AI backends.
 
 ---
 
 ## ✨ Project Vision
-Modern AI tools often force a compromise between deep local control and sleek cloud accessibility. **CORECODE** eliminates that friction. By leveraging a custom Electron bridge and a glass-morphic Next.js frontend, CORECODE provides a zero-latency, high-impact environment for developers who live at the intersection of the terminal and the cloud.
+Modern AI tools often force a compromise between deep local control and sleek cloud accessibility. **CORECODE** eliminates that friction. By leveraging a custom Electron bridge and a glass-morphic Next.js frontend, CORECODE provides a zero-latency environment for developers who live at the intersection of the terminal and the cloud.
 
 ---
 
@@ -41,10 +41,9 @@ Modern AI tools often force a compromise between deep local control and sleek cl
 - [x] **ASCII Branding**: Properly escaped, high-fidelity ASCII logo system.
 
 ## 🚧 Not Yet Implemented (Roadmap)
-- [ ] **"Plan" Mode Backend**: Structural logic for multi-agent reasoning chains.
-- [ ] **Agentic Workflow Engine**: Full permission-based file system access for autonomous tasks.
-- [ ] **GitHub Automation**: Direct integration for pushing and managing repository state from within the GUI.
-- [ ] **Plugin System**: Support for community-built provider extensions.
+- [ ] **"Plan" Mode Backend**: Structural logic for specialized reasoning chains.
+- [ ] **Workflow Engine**: Full permission-based file system access for local tasks.
+- [ ] **State Persistence**: Local database integration for session history.
 
 ---
 
