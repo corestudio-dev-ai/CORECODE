@@ -60,13 +60,9 @@ Modern AI tools often force a compromise between deep local control and sleek cl
    ```bash
    bun install
    ```
-3. Start the UI:
+3. Run the complete engine:
    ```bash
-   cd apps/web && bun run dev
-   ```
-4. Start the Desktop App:
-   ```bash
-   cd apps/desktop && bun run dev
+   cd apps/web && bun run dev && cd ../desktop && bun run dev
    ```
 
 ---
