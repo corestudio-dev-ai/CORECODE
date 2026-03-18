@@ -1,0 +1,15 @@
+{
+  "name": "@corecode/desktop",
+  "version": "1.0.0",
+  "description": "Desktop shell for CORECODE AI Agent",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^29.1.5",
+    "electron-builder": "^24.13.3"
+  }
+}
